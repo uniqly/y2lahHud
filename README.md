@@ -2,7 +2,7 @@
 v 2_17_2017 by bunny/uniqy
 
 
-## YalahHud V2
+##How to install:
 
 Extract to your tf/custom folder to install.
 

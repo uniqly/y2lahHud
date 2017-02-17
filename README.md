@@ -12,7 +12,7 @@ Whayy- YaHud
 
 ##v 2_17_2017:
  -YalahHud has been moved to Y2lahHud  
- -Base hud switched to ahud (one day i might make my own hud from scrath)  
+ -Base hud switched to ahud (one day i might make my own hud from scratch)  
  -Completely redesigned hud
  
   -uniqly
